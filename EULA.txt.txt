@@ -1,0 +1,7 @@
+End User License Agreement (EULA)
+
+You are granted permission to use this software for personal, non-commercial purposes.
+
+You may not modify, redistribute, decompile, or use any part of this code or its assets in other software or projects.
+
+By using this software, you agree to these terms.
